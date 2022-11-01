@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/List.cpp
+List.h
+/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/List.h
+vector
+-
+
+/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/List.h
+string
+-
+stdio.h
+-
+fstream
+-
+map
+-
+
+/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/main.cpp
+string
+-
+iostream
+-
+fstream
+-
+stdio.h
+-
+List.h
+/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/List.h
+

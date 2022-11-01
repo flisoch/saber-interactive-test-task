@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/flisoch/code/cpp/saberInteractiveTest/1_binaryOf'
+make: Leaving directory '/home/flisoch/code/cpp/saberInteractiveTest/1_binaryOf'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

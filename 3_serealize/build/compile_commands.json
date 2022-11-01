@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/list.dir/main.cpp.o -c /home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/main.cpp",
+  "file": "/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/main.cpp"
+},
+{
+  "directory": "/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++17 -o CMakeFiles/list.dir/List.cpp.o -c /home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/List.cpp",
+  "file": "/home/flisoch/code/cpp/saberInteractiveTest/DalerYuldashevTest/3_serealize/List.cpp"
+}
+]
